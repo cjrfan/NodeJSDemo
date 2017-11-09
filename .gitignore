@@ -1,2 +1,4 @@
 node_modules/
 .idea/
+01_spider/img/*.jpg
+01_spider/data/*.txt
